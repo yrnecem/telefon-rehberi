@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYr1iL49WonwfgY5i1/2AqC9OYrpToRSXd108bKPX7CLJjVIHuXaxnCF9P07Y/tCdfoPyL2zQECiwVq+P2Vfig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ecem1\\OneDrive\\Masaüstü\\CSPratik\\telefon_rehberi\\telefon_rehberi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecem1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

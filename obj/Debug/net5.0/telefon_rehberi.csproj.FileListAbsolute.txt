@@ -1,0 +1,16 @@
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\telefon_rehberi.exe
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\telefon_rehberi.deps.json
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\telefon_rehberi.runtimeconfig.json
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\telefon_rehberi.runtimeconfig.dev.json
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\telefon_rehberi.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\ref\telefon_rehberi.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\bin\Debug\net5.0\telefon_rehberi.pdb
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.csproj.AssemblyReference.cache
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.AssemblyInfoInputs.cache
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.AssemblyInfo.cs
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.csproj.CoreCompileInputs.cache
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\ref\telefon_rehberi.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.pdb
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\telefon_rehberi\obj\Debug\net5.0\telefon_rehberi.genruntimeconfig.cache
